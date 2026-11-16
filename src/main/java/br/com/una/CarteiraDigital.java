@@ -4,7 +4,7 @@ public class CarteiraDigital {
 
     private double saldo;
 
-    public CarteiraDigital{
+    public CarteiraDigital(){
         saldo = 0.0;
     }
 
