@@ -19,3 +19,9 @@ Projeto para simular as operações básicas de uma cateira digital.
 ## Como executar
 Execute no terminal:
 mvn clean test
+
+## Alunos
+Vitor Hugo Soares Martins - 42414189
+Arthur Silva Cardoso - 42415304
+Tiago Lucas Nascimento - 42415219
+Helder Ferreira Da Cruz Junior - 42421945
